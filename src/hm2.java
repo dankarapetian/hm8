@@ -1,0 +1,2 @@
+public class hm2 {
+}
